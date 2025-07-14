@@ -1,0 +1,8 @@
+flask
+openai
+opencv-python-headless  # Use headless version for serverless
+pytesseract
+numpy
+werkzeug
+python-dotenv
+setuptools>=65.5.0  # Add this to fix distutils error
