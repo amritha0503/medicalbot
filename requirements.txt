@@ -1,4 +1,6 @@
 flask
+Flask==3.0.0
+gunicorn==21.2.0
 openai
 opencv-python-headless  # Use headless version for serverless
 pytesseract
